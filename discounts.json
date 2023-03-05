@@ -1,0 +1,40 @@
+[
+    {
+       "vendor": 1,
+       "tradeA": 12,
+       "tradeB": 10,
+       "tradeC": "N/A",
+       "tradeD": 6
+   },
+   {
+        "vendor": 2,
+       "tradeA": 10,
+       "tradeB": 8,
+       "tradeC": 20,
+       "tradeD": "N/A"
+    },
+           
+    {
+        
+       "vendor": 3,
+        "tradeA": "N/A",
+        "tradeB": 9,
+        "tradeC": 25,
+       "tradeD": 3
+   },
+    {
+       "vendor": 4,
+       "tradeA": 9,
+       "tradeB": "N/A",
+       "tradeC": 16,
+       "tradeD": 30
+   },
+   {
+     "vendor": 5,
+     "tradeA": 5,
+    "tradeB": 11,
+    "tradeC": "N/A",
+   "tradeD": 30
+     }
+   
+   ]
